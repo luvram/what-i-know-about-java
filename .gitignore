@@ -1,0 +1,10 @@
+.gradle
+/build/
+
+.idea
+
+/out/
+
+*.DS_Store
+.AppleDouble
+.LSOverride
